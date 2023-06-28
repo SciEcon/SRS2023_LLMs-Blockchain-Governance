@@ -1,10 +1,9 @@
-# Title [How to Choice a Good Title?](https://www.nature.com/articles/s41562-021-01152-2)
+# Analysis of the Feasibility of Leveraging Large Language Models for Enhanced Blockchain Governance
 ## Project information
-- **Author**: [First Name][Last Name], [Major], [Class], Duke Kunshan University
+- **Author**: Yutong Quan, Political Economy/Economics, Class of 2024, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
-- **Disclaimer**: Submissions to the Final Project for [STATS201 Introduction to Machine Learning for Social Science, 2022 Autumn Term (Seven Week - Second)](https://ms.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
-- **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
-[notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
+- **Disclaimer**: This is a deliverable of the 2023 Summer Research Scholars (SRS) program instructed by Prof. Luyao Zhang at Duke Kunshan University.
+- **Acknowledgments**: I would like to express my heartfelt gratitude to Prof. Luyao Zhang for her invaluable guidance and unwavering support throughout this project. I would also like to extend my sincere appreciation to the SciEcon editorial team, including Xintong Wu, Wanlin Deng, Xinyu Tian, and Zesen Zhuang, for their meticulous attention to detail, constructive feedback, and diligent efforts in reviewing and editing this project. I also thank the DKU 2023 SRS program, as their recognition and support have provided the necessary resources and platform for the successful execution of this research.
 - **Project Summary**: 
   - [Summarize the Background/Motivation]
   - [Research Questions]
