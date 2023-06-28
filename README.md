@@ -41,9 +41,9 @@ To bridge this gap, this article aims to introduce two key components. Firstly, 
 
 ## Spotlight
 **Discord Figures**
-
+![https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/blob/main/spotlight/figures/LLM%20data%20studio.png?raw=true]
 **Figure. 1: Screenshot of Uniswap Discord #governance channel.**
-
+![https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/blob/main/spotlight/figures/discord%20dataset.png?raw=true]
 **Figure. 2: DiscordChatExporter Application.**
 
 **Figure. 3: Uniswap Discord #governance channel discussion dataset.**
