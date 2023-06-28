@@ -79,6 +79,7 @@ To bridge this gap, this article aims to introduce two key components. Firstly, 
 **Figure. 9: h2oGPT web interface (cited from [H2O.ai](https://github.com/h2oai/h2ogpt)).**
 
 ## More about the Author
+![yutong](https://github.com/yutongquan/Yutong-Quan/blob/main/image/chapel%20photo.png?raw=true)
 Yutong Quan is a rising senior student majoring in Political Economy with an Economics track. Interested research areas include blockchain governance, decentralized finance, and interdisciplinary fields of Artificial Intelligence and economics.
 
 ## References
