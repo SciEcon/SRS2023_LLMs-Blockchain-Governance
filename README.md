@@ -9,8 +9,8 @@ In recent years, the deployment of Large Language Models (LLMs) has expanded acr
 However, the application of LLMs in blockchain governance remains largely unexplored. Through our literature review, we have identified the significant potential of LLMs in enhancing social governance within blockchain networks. LLMs can facilitate a more inclusive and diverse decision-making process by synthesizing and analyzing textual discussions within blockchain communities. Furthermore, LLMs can contribute to the transparency of blockchain governance by providing explanations and justifications for decisions made.
 To bridge this gap, this article aims to introduce two key components. Firstly, we will present a dataset consisting of discussions from the Uniswap community on the Discord forum. This dataset will serve as a valuable resource for training and evaluating LLMs in the context of blockchain governance. Secondly, we will demonstrate an application method utilizing h2oGPT, an open-source repository of LLMs, to apply these models to blockchain social governance.
 
-  - Application Scenario (Data Source): Blockchain Governance (Uniswap Discord #governance channel)
-  - Methodology: Large Language Models (H2O.ai)
+  - **Application Scenario (Data Source)**: Blockchain Governance (Uniswap Discord #governance channel)
+  - **Methodology**: Large Language Models (H2O.ai)
 
 ## Table of Contents
 - [data](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/tree/main/data)
@@ -18,11 +18,19 @@ To bridge this gap, this article aims to introduce two key components. Firstly, 
 - [spotlight](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/tree/main/spotlight/figures)
 - more about the author
 - references
-- 
+
 ## Data
 - Data Source: https://discord.com/channels/597638925346930701/755969053280960533
 - Tool: https://github.com/Tyrrrz/DiscordChatExporter
-- [Queried Data](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/blob/main/data/Queried_Data/Discord%20-%20Uniswap%20-%20Governance.csv)
+**Data Information**
+| File | Variable | Description |
+| ----- | --------- | ----------- |
+| [Discord-Uniswap-Governance](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/blob/main/data/Queried_Data/Discord%20-%20Uniswap%20-%20Governance.csv) | AuthorID | The ID of the author of the discussion. |
+| | Author | The name of the author of the discussion. |
+| | Date | The date when the discussion took place. |
+| | Content | The text content of the discussion. |
+| | Attachments | Any attachments or files associated with the discussion. |
+| | Reactions | The reactions or responses received for the discussion. |
 
 ## Code
 - Query Data
