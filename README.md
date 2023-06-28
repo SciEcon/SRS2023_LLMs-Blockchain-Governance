@@ -18,15 +18,11 @@ To bridge this gap, this article aims to introduce two key components. Firstly, 
 - [spotlight](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/tree/main/spotlight/figures)
 - more about the author
 - references
-
-
-
+- 
 ## Data
-- Data Source:
-- Queried Data
-- Processed Data
-- ...
-
+- Data Source: https://discord.com/channels/597638925346930701/755969053280960533
+- Tool: https://github.com/Tyrrrz/DiscordChatExporter
+- [Queried Data](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/blob/main/data/Queried_Data/Discord%20-%20Uniswap%20-%20Governance.csv)
 
 ## Code
 - Query Data
