@@ -1,4 +1,4 @@
-# Analysis of the Feasibility of Leveraging Large Language Models for Enhanced Blockchain Governance
+# How Large Language Models Enhance Blockchain Governance: Methods and Data
 ## Project information
 - **Author**: Yutong Quan, Political Economy/Economics, Class of 2024, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
@@ -80,6 +80,7 @@ To bridge this gap, this article aims to introduce two key components. Firstly, 
 
 ## More about the Author
 ![yutong](https://github.com/yutongquan/Yutong-Quan/blob/main/image/chapel%20photo.png?raw=true)
+
 Yutong Quan is a rising senior student majoring in Political Economy with an Economics track. Interested research areas include blockchain governance, decentralized finance, and interdisciplinary fields of Artificial Intelligence and economics.
 
 ## References
