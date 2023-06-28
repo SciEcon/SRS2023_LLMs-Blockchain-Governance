@@ -13,16 +13,18 @@ To bridge this gap, this article aims to introduce two key components. Firstly, 
   - **Methodology**: Large Language Models (H2O.ai)
 
 ## Table of Contents
-- [data](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/tree/main/data)
-- [code](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/tree/main/code)
-- [spotlight](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/tree/main/spotlight/figures)
-- more about the author
-- references
+- [data](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/tree/main#data)
+- [code](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/tree/main#code)
+- [spotlight](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/tree/main#spotlight)
+- [more about the author](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/tree/main#more-about-the-author)
+- [references](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/tree/main#reference)
 
 ## Data
 - Data Source: https://discord.com/channels/597638925346930701/755969053280960533
 - Tool: https://github.com/Tyrrrz/DiscordChatExporter
+
 **Data Information**
+
 | File | Variable | Description |
 | ----- | --------- | ----------- |
 | [Discord-Uniswap-Governance](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/blob/main/data/Queried_Data/Discord%20-%20Uniswap%20-%20Governance.csv) | AuthorID | The ID of the author of the discussion. |
