@@ -35,10 +35,9 @@ To bridge this gap, this article aims to introduce two key components. Firstly, 
 | | Reactions | The reactions or responses received for the discussion. |
 
 ## Code
-- Query Data
-- Process Data
-- Analyze Data
-- ...
+| File | Description |
+| ----- | ----------- |
+| [SRS2023_Discord_data_process.ipynb](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/blob/main/code/SRS2023_Discord_data_process.ipynb) | Discord discussion data process and visualization |
 
 ## Spotlight
 - Posters
