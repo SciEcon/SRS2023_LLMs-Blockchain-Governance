@@ -40,29 +40,28 @@ To bridge this gap, this article aims to introduce two key components. Firstly, 
 | [SRS2023_Discord_data_process.ipynb](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/blob/main/code/SRS2023_Discord_data_process.ipynb) | Discord discussion data process and visualization |
 
 ## Spotlight
-**Discord Figures**
+- **Discord Figures**
 
-![1](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/blob/main/spotlight/figures/LLM%20data%20studio.png?raw=true)
+![1](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/blob/main/spotlight/figures/discord%20screenshot.png?raw=true)
 **Figure. 1: Screenshot of Uniswap Discord #governance channel.**
-
-![2](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/blob/main/spotlight/figures/discord%20dataset.png?raw=true)
+![2](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/blob/main/spotlight/figures/discordchatexporter.png?raw=true)
 **Figure. 2: DiscordChatExporter Application.**
-
+![3](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/blob/main/spotlight/figures/discord%20dataset.png?raw=true)
 **Figure. 3: Uniswap Discord #governance channel discussion dataset.**
-
+![4](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/blob/main/spotlight/figures/discussion%20volume.png?raw=true)
 **Figure. 4: Uniswap Discord #governance channel discussion volume.**
-
+![5](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/blob/main/spotlight/figures/word%20cloud.png?raw=true)
 **Figure. 5: Uniswap Discord #governance channel discussion content word cloud.**
 
+- **H2O.ai Figures**
+![6](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/blob/main/spotlight/figures/LLM%20data%20studio.png?raw=true)
 **Figure. 6: H2O LLM Data Studio web interface (cited from [H2O.ai](https://h2o.ai/blog/streamlining-data-preparation-for-fine-tuning-of-large-language-models/)).**
-
+![7](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/blob/main/spotlight/figures/fine-tune.png?raw=true)
 **Figure. 7: H2O LLM Studio fine-tune example (cited from [H2O.ai](https://h2o.ai/blog/effortless-fine-tuning-of-large-language-models-with-open-source-h2o-llm-studio/.)).**
-
+![8](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/blob/main/spotlight/figures/experiment%20steps.png?raw=true)
 **Figure. 8: H2O LLM Studio experiment steps (cited from [H2O.ai](https://h2o.ai/blog/effortless-fine-tuning-of-large-language-models-with-open-source-h2o-llm-studio/.)).**
-
+![9](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/blob/main/spotlight/figures/h2ogpt.png?raw=true)
 **Figure. 9: h2oGPT web interface (cited from [H2O.ai](https://github.com/h2oai/h2ogpt)).**
-
-**H2O.ai Figures**
 
 ## More about the Author
 Yutong Quan is a rising senior student majoring in Political Economy with an Economics track. Interested research areas include blockchain governance, decentralized finance, and interdisciplinary fields of Artificial Intelligence and economics.
