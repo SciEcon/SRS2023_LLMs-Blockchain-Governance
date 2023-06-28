@@ -13,9 +13,9 @@ To bridge this gap, this article aims to introduce two key components. Firstly, 
   - Methodology: Large Language Models (H2O.ai)
 
 ## Table of Contents
-- data
-- code
-- spotlight
+- [data](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/tree/main/data)
+- [code](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/tree/main/code)
+- [spotlight](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/tree/main/spotlight/figures)
 - more about the author
 - references
 
