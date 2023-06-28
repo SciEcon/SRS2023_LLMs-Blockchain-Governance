@@ -40,44 +40,44 @@ To bridge this gap, this article aims to introduce two key components. Firstly, 
 | [SRS2023_Discord_data_process.ipynb](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/blob/main/code/SRS2023_Discord_data_process.ipynb) | Discord discussion data process and visualization |
 
 ## Spotlight
-- Posters
-- Figures
-- Slides
-- Presentations
-- Review articles
-- Media appearance
+**Discord Figures**
+
+**Figure. 1: Screenshot of Uniswap Discord #governance channel.**
+
+**Figure. 2: DiscordChatExporter Application.**
+
+**Figure. 3: Uniswap Discord #governance channel discussion dataset.**
+
+**Figure. 4: Uniswap Discord #governance channel discussion volume.**
+
+**Figure. 5: Uniswap Discord #governance channel discussion content word cloud.**
+
+**Figure. 6: H2O LLM Data Studio web interface (cited from [H2O.ai](https://h2o.ai/blog/streamlining-data-preparation-for-fine-tuning-of-large-language-models/)).**
+
+**Figure. 7: H2O LLM Studio fine-tune example (cited from [H2O.ai](https://h2o.ai/blog/effortless-fine-tuning-of-large-language-models-with-open-source-h2o-llm-studio/.)).**
+
+**Figure. 8: H2O LLM Studio experiment steps (cited from [H2O.ai](https://h2o.ai/blog/effortless-fine-tuning-of-large-language-models-with-open-source-h2o-llm-studio/.)).**
+
+**Figure. 9: h2oGPT web interface (cited from [H2O.ai](https://github.com/h2oai/h2ogpt)).**
+
+**H2O.ai Figures**
 
 ## More about the Author
-- headshot
-- self-introduction
-- Final reflections 
-  - intellectual growth
-  - professional growth
-  - living a purposeful life
+Yutong Quan is a rising senior student majoring in Political Economy with an Economics track. Interested research areas include blockchain governance, decentralized finance, and interdisciplinary fields of Artificial Intelligence and economics.
 
 ## References
 
 ### Data Source
-- Data Source Title and URL
+Uniswap Discord: https://discord.com/channels/597638925346930701/755969053280960533
+
 ### Code Source
-- Code Source Title and URL
+DiscordChatExporter GitHub: https://github.com/Tyrrrz/DiscordChatExporter
+
+h2oGPT GitHub: https://github.com/h2oai/h2ogpt
+
+H2O LLM Studio: https://github.com/h2oai/h2o-llmstudio
+
 ### Articles
-- Article Source Title and URL
-### Literature
-- Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
+H2O.ai. 2023a. “Effortless Fine-Tuning of Large Language Models with Open-Source H2O LLM Studio.” H2O.ai. May 1, 2023. https://h2o.ai/blog/effortless-fine-tuning-of-large-language-models-with-open-source-h2o-llm-studio/.
 
-Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
-
-```
-@article{levin2022bridging,
-  title={Bridging level-k to nash equilibrium},
-  author={Levin, Dan and Zhang, Luyao},
-  journal={Review of Economics and Statistics},
-  volume={104},
-  number={6},
-  pages={1329--1340},
-  year={2022},
-  publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
-}
-```
-
+———. 2023b. “Streamlining Data Preparation for Fine Tuning of Large Language Models.” H2O.ai. June 14, 2023. https://h2o.ai/blog/streamlining-data-preparation-for-fine-tuning-of-large-language-models/.
