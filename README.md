@@ -68,8 +68,8 @@ This article aims to introduce two main components. Firstly, we will present a d
 
 
 - **H2O.ai Figures**
-![6](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/blob/main/spotlight/figures/LLM%20data%20studio.png?raw=true)
 
+![6](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/blob/main/spotlight/figures/LLM%20data%20studio.png?raw=true)
 **Figure. 6: H2O LLM Data Studio web interface (cited from [H2O.ai](https://h2o.ai/blog/streamlining-data-preparation-for-fine-tuning-of-large-language-models/)).**
 
 
