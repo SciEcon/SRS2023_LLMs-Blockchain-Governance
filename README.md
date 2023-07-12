@@ -32,12 +32,12 @@ This article aims to introduce two main components. Firstly, we will present a d
 
 | File | Variable | Description | Unit | Type |
 | ----- | --------- | ----------- | ----------- | ----------- |
-| [Discord-Uniswap-Governance](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/blob/main/data/Queried_Data/Discord%20-%20Uniswap%20-%20Governance.csv) | AuthorID | The ID of the author of the discussion. | none | ----------- |
-| | Author | The name of the author of the discussion. | none | ----------- |
-| | Date | The date when the discussion took place. | daily | 1 day |
-| | Content | The text content of the discussion. | none | ----------- |
-| | Attachments | Any attachments or files associated with the discussion. |  | ----------- |
-| | Reactions | The reactions or responses received for the discussion. | 1 (number) | ----------- |
+| [Discord-Uniswap-Governance](https://github.com/SciEcon/SRS2023_LLMs-BlockchainGovernance/blob/main/data/Queried_Data/Discord%20-%20Uniswap%20-%20Governance.csv) | AuthorID | The ID of the author of the discussion. | none | int |
+| | Author | The name of the author of the discussion. | none | object |
+| | Date | The date when the discussion took place. | 1 day | object |
+| | Content | The text content of the discussion. | none | object |
+| | Attachments | Any attachments or files associated with the discussion. | object |
+| | Reactions | The reactions or responses received for the discussion. | 1 (number) | object |
 
 ## Code
 | File | Description |
