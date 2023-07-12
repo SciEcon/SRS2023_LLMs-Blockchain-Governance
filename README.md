@@ -36,7 +36,7 @@ This article aims to introduce two main components. Firstly, we will present a d
 | | Author | The name of the author of the discussion. | none | object |
 | | Date | The date when the discussion took place. | 1 day | object |
 | | Content | The text content of the discussion. | none | object |
-| | Attachments | Any attachments or files associated with the discussion. | object |
+| | Attachments | Any attachments or files associated with the discussion. | none | object |
 | | Reactions | The reactions or responses received for the discussion. | 1 (number) | object |
 
 ## Code
