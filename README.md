@@ -5,7 +5,6 @@ Disclaimer: This article is a final deliverable from Prof. Luyao Zhang's project
 ## Project information
 - **Author**: Yutong Quan, Political Economy/Economics, Class of 2024, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
-- **Disclaimer**: This is a deliverable of the 2023 Summer Research Scholars (SRS) program instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: I would like to express my heartfelt gratitude to Prof. Luyao Zhang for her invaluable guidance and unwavering support throughout this project. I would also like to extend my sincere appreciation to the SciEcon editorial team, including Xintong Wu, Wanlin Deng, Xinyu Tian, and Zesen Zhuang, for their meticulous attention to detail, constructive feedback, and diligent efforts in reviewing and editing this project. I also thank the DKU 2023 SRS program, as their recognition and support have provided the necessary resources and platform for the successful execution of this research.
 - **Project Summary**: 
 
