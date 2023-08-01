@@ -1,5 +1,6 @@
 # How Large Language Models Enhance Blockchain Governance: Methods and Data
-< Disclaimer: This article is a final deliverable from Prof. Luyao Zhang's project entitled "From 'Code is Law' to 'Code and Law': A Comparative Study on Blockchain Governance," supported by the 2023 Summer Research Scholarship (SRS) program at Duke Kunshan University. SciEcon wholeheartedly supports DKU's noble mission of advancing interdisciplinary research and fostering integrated talents. Our support is solely focused on promoting academic excellence and knowledge exchange. SciEcon does not seek any financial gains, property rights, or branding privileges from DKU. Moreover, individuals involved in this philanthropy event perform their roles independently at DKU and SciEcon. >
+
+Disclaimer: This article is a final deliverable from Prof. Luyao Zhang's project entitled "From 'Code is Law' to 'Code and Law': A Comparative Study on Blockchain Governance," supported by the 2023 Summer Research Scholarship (SRS) program at Duke Kunshan University. SciEcon wholeheartedly supports DKU's noble mission of advancing interdisciplinary research and fostering integrated talents. Our support is solely focused on promoting academic excellence and knowledge exchange. SciEcon does not seek any financial gains, property rights, or branding privileges from DKU. Moreover, individuals involved in this philanthropy event perform their roles independently at DKU and SciEcon. 
   
 ## Project information
 - **Author**: Yutong Quan, Political Economy/Economics, Class of 2024, Duke Kunshan University
